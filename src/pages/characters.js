@@ -11,7 +11,7 @@ const Character = () => {
                 <h3>Species:</h3>
                 <h3>Gender:</h3>
                 <h3>Origin:</h3>
-                <h3>Las Location:</h3>
+                <h3>Last Location:</h3>
             </article>
 
         </div>
